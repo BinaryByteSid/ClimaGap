@@ -1,0 +1,463 @@
+{
+ "_comment": "Judgments on the real SAPCC corpus. Built by pooling the top-5 of all four methods per query (TREC-style) and grading each pooled passage 0/1/2 by hand (2 = directly answers, 1 = partially relevant). Queries r05 and r15 are supplemented with passages found by keyword search because the pool held few relevant ones. Judgments were made by Claude while building the project: review them before reporting. Unjudged passages count as non-relevant.",
+ "queries": [
+  {
+   "id": "r01",
+   "query": "heat action plan for Ahmedabad",
+   "relevant": [
+    {
+     "id": "gujarat_sapcc2:p233:480",
+     "grade": 2
+    },
+    {
+     "id": "gujarat_sapcc2:p234:481",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p183:725",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p220:757",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p40:74",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r02",
+   "query": "cyclone shelters in coastal Odisha",
+   "relevant": [
+    {
+     "id": "odisha_sapcc2:p141:326",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p35:62",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p144:330",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p96:205",
+     "grade": 1
+    },
+    {
+     "id": "odisha_sapcc2:p32:51",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r03",
+   "query": "drought-tolerant crop varieties in Rajasthan",
+   "relevant": [
+    {
+     "id": "rajasthan_sapcc2014:p105:294",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p118:371",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p88:239",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p88:238",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r04",
+   "query": "urban flooding in Mumbai",
+   "relevant": [
+    {
+     "id": "maharashtra_sapcc2:p96:283",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p189:632",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p188:629",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p19:33",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p94:275",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r05",
+   "query": "landslide risk in Kerala Western Ghats",
+   "relevant": [
+    {
+     "id": "kerala_sapcc2:p47:158",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p27:79",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p81:364",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p124:494",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p124:496",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p70:297",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p82:369",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p66:272",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p42:133",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p71:304",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p5:6",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r06",
+   "query": "mangrove restoration to protect the coast",
+   "relevant": [
+    {
+     "id": "maharashtra_sapcc2:p162:540",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p163:545",
+     "grade": 2
+    },
+    {
+     "id": "gujarat_sapcc2:p136:266",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p162:541",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p163:546",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p228:547",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p151:491",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p136:265",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p136:267",
+     "grade": 2
+    }
+   ]
+  },
+  {
+   "id": "r07",
+   "query": "flood early warning and forecasting systems",
+   "relevant": [
+    {
+     "id": "maharashtra_sapcc2:p96:285",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p216:736",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p98:294",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r08",
+   "query": "heat stress in livestock",
+   "relevant": [
+    {
+     "id": "kerala_sapcc2:p41:124",
+     "grade": 1
+    },
+    {
+     "id": "odisha_sapcc2:p110:249",
+     "grade": 2
+    },
+    {
+     "id": "gujarat_sapcc2:p15:13",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p105:295",
+     "grade": 2
+    },
+    {
+     "id": "rajasthan_sapcc2014:p101:277",
+     "grade": 2
+    }
+   ]
+  },
+  {
+   "id": "r09",
+   "query": "groundwater recharge structures",
+   "relevant": [
+    {
+     "id": "kerala_sapcc2:p76:332",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p68:169",
+     "grade": 2
+    },
+    {
+     "id": "rajasthan_sapcc2014:p74:190",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p78:202",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "query": "sea level rise impacts on the Odisha coast",
+   "relevant": [
+    {
+     "id": "odisha_sapcc2:p30:47",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p140:324",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p31:48",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p139:323",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p93:197",
+     "grade": 2
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "query": "vector-borne disease surveillance and climate change",
+   "relevant": [
+    {
+     "id": "rajasthan_sapcc2014:p130:384",
+     "grade": 1
+    },
+    {
+     "id": "odisha_sapcc2:p137:316",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p75:323",
+     "grade": 1
+    },
+    {
+     "id": "maharashtra_sapcc2:p19:32",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p117:337",
+     "grade": 2
+    },
+    {
+     "id": "rajasthan_sapcc2014:p130:381",
+     "grade": 2
+    },
+    {
+     "id": "rajasthan_sapcc2014:p129:378",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p46:156",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p130:382",
+     "grade": 2
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "query": "solar energy capacity targets",
+   "relevant": [
+    {
+     "id": "maharashtra_sapcc2:p252:880",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p253:886",
+     "grade": 2
+    },
+    {
+     "id": "odisha_sapcc2:p79:167",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p36:61",
+     "grade": 2
+    },
+    {
+     "id": "maharashtra_sapcc2:p233:806",
+     "grade": 1
+    },
+    {
+     "id": "odisha_sapcc2:p81:175",
+     "grade": 1
+    },
+    {
+     "id": "rajasthan_sapcc2014:p166:499",
+     "grade": 2
+    },
+    {
+     "id": "rajasthan_sapcc2014:p177:531",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "query": "salinity ingress in coastal Gujarat",
+   "relevant": [
+    {
+     "id": "gujarat_sapcc2:p66:130",
+     "grade": 2
+    },
+    {
+     "id": "gujarat_sapcc2:p64:124",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p213:437",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p210:429",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p52:99",
+     "grade": 1
+    },
+    {
+     "id": "gujarat_sapcc2:p199:401",
+     "grade": 2
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "query": "crop insurance for farmers affected by drought",
+   "relevant": [
+    {
+     "id": "gujarat_sapcc2:p277:562",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p68:285",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p83:376",
+     "grade": 2
+    },
+    {
+     "id": "rajasthan_sapcc2014:p95:263",
+     "grade": 2
+    },
+    {
+     "id": "gujarat_sapcc2:p204:414",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p71:298",
+     "grade": 1
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "query": "Kerala 2018 floods",
+   "relevant": [
+    {
+     "id": "kerala_sapcc2:p42:132",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p41:125",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p22:60",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p128:512",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p42:133",
+     "grade": 2
+    },
+    {
+     "id": "kerala_sapcc2:p43:141",
+     "grade": 1
+    },
+    {
+     "id": "kerala_sapcc2:p71:304",
+     "grade": 1
+    }
+   ]
+  }
+ ]
+}

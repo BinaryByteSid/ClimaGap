@@ -1,0 +1,12 @@
+file,doc_id,region,title,year,kind,url
+Gujarat__SAPCC_2.0.pdf,gujarat_sapcc2,Gujarat,Second State Action Plan on Climate Change - Gujarat (DRAFT: not to be cited),2021,real,https://napccindia.moef.gov.in/resources/pdfs/gujarat-sapcc-2.0.pdf
+Maharashtra__SAPCC_2.0.pdf,maharashtra_sapcc2,Maharashtra,Maharashtra State Action Plan on Climate Change 2020-2030,2020,real,https://napccindia.moef.gov.in/resources/pdfs/maharashtra-sapcc-2.0.pdf
+Odisha__SAPCC_2.0.pdf,odisha_sapcc2,Odisha,Odisha Climate Change Action Plan 2021-2030,2021,real,https://napccindia.moef.gov.in/resources/pdfs/odisha-sapcc-2.0.pdf
+Kerala__SAPCC_2.0.pdf,kerala_sapcc2,Kerala,Kerala State Action Plan on Climate Change 2023-2030,2022,real,https://napccindia.moef.gov.in/resources/pdfs/kerala-sapcc-2.0.pdf
+Rajasthan__SAPCC_2014.pdf,rajasthan_sapcc2014,Rajasthan,Rajasthan State Action Plan on Climate Change (2014),2014,real,https://napccindia.moef.gov.in/resources/pdfs/Rajasthan-compressed.pdf
+Gujarat__SAPCC_sample.txt,gujarat_sample,Gujarat,Gujarat SAPCC (sample text),2024,sample,
+Maharashtra__SAPCC_sample.txt,maharashtra_sample,Maharashtra,Maharashtra SAPCC (sample text),2024,sample,
+Odisha__SAPCC_sample.txt,odisha_sample,Odisha,Odisha SAPCC (sample text),2024,sample,
+Rajasthan__SAPCC_sample.txt,rajasthan_sample,Rajasthan,Rajasthan SAPCC (sample text),2024,sample,
+Kerala__SAPCC_sample.txt,kerala_sample,Kerala,Kerala SAPCC (sample text),2024,sample,
+India__climate_overview_sample.txt,india_overview_sample,,India climate risk overview (sample text),2024,sample,

@@ -1,0 +1,13 @@
+# SAMPLE TEXT: illustrative paragraphs written for the ClimaGap demo.
+# Not quoted from Rajasthan's official State Action Plan on Climate Change.
+# Replace with the real SAPCC PDF (data/raw/Rajasthan__SAPCC.pdf) for actual findings.
+
+1. Climate profile. Rajasthan is India's largest state and contains most of the Thar desert. It has the lowest per-capita water availability in the country, and drought affects some part of the state almost every year. Western towns such as Phalodi and Churu record summer temperatures close to 50 degrees Celsius, and heatwaves now begin earlier in the season and last longer.
+
+2. Drought and water conservation. The State will promote rooftop rainwater harvesting and restore traditional johads and baoris to recharge groundwater in desert districts. The Agriculture Department will distribute drought-tolerant seeds of bajra and guar to smallholder farmers before the kharif season.
+
+3. Heat and health. The Public Health Engineering Department will set up drinking water kiosks at bus stands and markets during heatwaves. The Medical and Health Department will provide ORS and heatstroke wards in district hospitals from April to June, and will track heat-related deaths every summer.
+
+4. Renewable energy. Rajasthan will develop solar parks in Jodhpur and Bikaner to make the state a renewable energy hub, and will add transmission corridors so that desert solar power can be supplied to other states.
+
+5. Desertification. Sand dune stabilisation through shelterbelt plantations will continue along the Indira Gandhi canal, and grazing land development will be taken up with village panchayats.

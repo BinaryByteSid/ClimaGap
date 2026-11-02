@@ -1,0 +1,15 @@
+# SAMPLE TEXT: illustrative paragraphs written for the ClimaGap demo.
+# Not quoted from Maharashtra's official State Action Plan on Climate Change.
+# Replace with the real SAPCC PDF (data/raw/Maharashtra__SAPCC.pdf) for actual findings.
+
+1. Climate profile. Maharashtra combines the drought-prone plateau of Marathwada and Vidarbha with a densely populated western coast. Rain-fed farming dominates the interior, where successive monsoon failures have caused severe agrarian distress. Mumbai and other coastal cities experience extreme rainfall events that overwhelm drainage and bring the city to a standstill.
+
+2. Rising temperatures. Summer temperatures in Vidarbha now frequently exceed 46 degrees Celsius, and heatwaves are becoming a serious risk for farm labourers, construction workers and the elderly. Night-time temperatures in large cities are also rising because of the urban heat island effect, which increases electricity demand for cooling.
+
+3. Drought management. The State will promote watershed conservation works in Marathwada to improve water availability for farmers across rain-fed blocks. The Agriculture Department will expand crop insurance coverage for rain-fed farmers affected by drought, and village water budgets will be prepared before every sowing season.
+
+4. Flood risk. The Municipal Corporation of Greater Mumbai will upgrade the storm water drainage network to handle extreme rainfall and prevent waterlogging in low-lying wards. The Water Resources Department will establish real-time flood forecasting for the Krishna and Godavari basins using telemetry at major dams.
+
+5. Health after floods. The Public Health Department will prepare district health plans for vector-borne diseases following floods, with pre-positioned medicines and mobile medical units in the most affected talukas.
+
+6. Institutions. Maharashtra will set up a state climate change cell to mainstream climate concerns in budgets and departmental planning, and every department will report annually on progress against this action plan.

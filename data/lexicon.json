@@ -1,0 +1,41 @@
+{
+  "_comment": "Canonical entity -> surface forms. Matching is case-insensitive; add plurals explicitly.",
+  "Hazard": {
+    "Heatwave": ["heatwave", "heatwaves", "heat wave", "heat waves", "extreme heat", "heat stress", "heatstroke", "heat stroke", "high temperatures", "heat action plan", "heat action plans", "heat-health action plan", "heat related illness", "heat-related illness", "heat related illnesses", "heat-related illnesses"],
+    "Drought": ["drought", "droughts", "water scarcity", "deficient rainfall", "dry spell", "dry spells"],
+    "Flood": ["flood", "floods", "flooding", "inundation", "waterlogging", "flash flood", "flash floods"],
+    "Cyclone": ["cyclone", "cyclones", "cyclonic", "cyclonic storm", "cyclonic storms", "storm surge", "storm surges"],
+    "Sea-level rise": ["sea level rise", "sea-level rise", "rising sea level", "rising sea levels", "coastal erosion", "saline intrusion", "salinity ingress"],
+    "Landslide": ["landslide", "landslides", "landslip", "landslips", "mudslide", "mudslides"]
+  },
+  "Sector": {
+    "Agriculture": ["agriculture", "agricultural", "farmer", "farmers", "crop", "crops", "farming", "irrigation", "paddy", "livestock"],
+    "Water": ["water resources", "groundwater", "drinking water", "watershed", "reservoir", "reservoirs", "river", "rivers", "water supply"],
+    "Health": ["health", "public health", "hospital", "hospitals", "health centres", "disease", "diseases", "mortality"],
+    "Coastal": ["coastal", "coast", "coastline", "fishermen", "fishing", "fisheries", "mangrove", "mangroves"],
+    "Urban": ["urban", "city", "cities", "towns", "municipal", "drainage", "housing", "buildings"],
+    "Energy": ["energy", "power", "electricity", "power grid", "grid", "solar", "renewable energy"],
+    "Forest": ["forest", "forests", "forestry", "tree cover", "afforestation"]
+  },
+  "Region": {
+    "Gujarat": ["gujarat", "ahmedabad", "surat", "kutch", "saurashtra"],
+    "Maharashtra": ["maharashtra", "mumbai", "pune", "marathwada", "vidarbha"],
+    "Odisha": ["odisha", "orissa", "bhubaneswar", "puri", "kendrapara"],
+    "Rajasthan": ["rajasthan", "jaipur", "jodhpur", "bikaner", "thar"],
+    "Kerala": ["kerala", "kochi", "thiruvananthapuram", "idukki", "wayanad"]
+  },
+  "SDG": {
+    "13.1": {
+      "label": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters",
+      "keywords": ["early warning", "disaster", "resilien", "shelter", "evacuation", "forecast", "embankment", "contingency", "surveillance", "protect"]
+    },
+    "13.2": {
+      "label": "Integrate climate change measures into national policies, strategies and planning",
+      "keywords": ["policy", "plan", "mainstream", "guideline", "regulation", "budget", "planning", "scheme", "mission", "zonation", "solar", "renewable", "emission"]
+    },
+    "13.3": {
+      "label": "Improve education, awareness-raising and human and institutional capacity on climate change",
+      "keywords": ["awareness", "training", "train ", "education", "literacy", "campaign", "capacity building", "volunteer", "outreach", "school"]
+    }
+  }
+}

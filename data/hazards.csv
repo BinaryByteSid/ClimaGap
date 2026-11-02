@@ -1,0 +1,23 @@
+region,hazard,severity,basis
+Gujarat,Heatwave,high,indicative - verify against NDMA hazard profile
+Gujarat,Drought,high,indicative - verify against NDMA hazard profile
+Gujarat,Cyclone,medium,indicative - verify against NDMA hazard profile
+Gujarat,Flood,medium,indicative - verify against NDMA hazard profile
+Gujarat,Sea-level rise,medium,indicative - verify against NDMA hazard profile
+Maharashtra,Drought,high,indicative - verify against NDMA hazard profile
+Maharashtra,Flood,high,indicative - verify against NDMA hazard profile
+Maharashtra,Heatwave,medium,indicative - verify against NDMA hazard profile
+Maharashtra,Cyclone,low,indicative - verify against NDMA hazard profile
+Odisha,Cyclone,high,indicative - verify against NDMA hazard profile
+Odisha,Flood,high,indicative - verify against NDMA hazard profile
+Odisha,Heatwave,high,indicative - verify against NDMA hazard profile
+Odisha,Sea-level rise,high,indicative - verify against NDMA hazard profile
+Odisha,Drought,medium,indicative - verify against NDMA hazard profile
+Rajasthan,Drought,high,indicative - verify against NDMA hazard profile
+Rajasthan,Heatwave,high,indicative - verify against NDMA hazard profile
+Rajasthan,Flood,low,indicative - verify against NDMA hazard profile
+Kerala,Flood,high,indicative - verify against NDMA hazard profile
+Kerala,Landslide,high,indicative - verify against NDMA hazard profile
+Kerala,Sea-level rise,high,indicative - verify against NDMA hazard profile
+Kerala,Cyclone,medium,indicative - verify against NDMA hazard profile
+Kerala,Heatwave,low,indicative - verify against NDMA hazard profile

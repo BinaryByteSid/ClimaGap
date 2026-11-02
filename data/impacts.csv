@@ -1,0 +1,19 @@
+hazard,sector
+Heatwave,Health
+Heatwave,Agriculture
+Heatwave,Energy
+Heatwave,Urban
+Drought,Agriculture
+Drought,Water
+Flood,Agriculture
+Flood,Urban
+Flood,Water
+Flood,Health
+Cyclone,Coastal
+Cyclone,Health
+Cyclone,Energy
+Sea-level rise,Coastal
+Sea-level rise,Agriculture
+Sea-level rise,Water
+Landslide,Urban
+Landslide,Forest

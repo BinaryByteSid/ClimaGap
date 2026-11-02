@@ -1,0 +1,74 @@
+{
+  "_comment": "Relevance judgments. Each relevant passage is identified by doc_id + a phrase it contains (case-insensitive), so judgments survive re-chunking. grade: 2 = highly relevant, 1 = partially relevant.",
+  "queries": [
+    {"id": "q01", "query": "heatwave measures in Gujarat", "relevant": [
+      {"doc": "gujarat_sample", "contains": "Heat and public health", "grade": 2},
+      {"doc": "gujarat_sample", "contains": "climate awareness campaigns", "grade": 1}]},
+    {"id": "q02", "query": "how will Odisha protect people from cyclones", "relevant": [
+      {"doc": "odisha_sample", "contains": "multipurpose cyclone shelters", "grade": 2},
+      {"doc": "odisha_sample", "contains": "cyclone contingency plans", "grade": 2},
+      {"doc": "odisha_sample", "contains": "restore mangroves", "grade": 1}]},
+    {"id": "q03", "query": "drought adaptation for farmers in Rajasthan", "relevant": [
+      {"doc": "rajasthan_sample", "contains": "drought-tolerant seeds", "grade": 2}]},
+    {"id": "q04", "query": "urban flooding in Mumbai", "relevant": [
+      {"doc": "maharashtra_sample", "contains": "storm water drainage network", "grade": 2},
+      {"doc": "maharashtra_sample", "contains": "overwhelm drainage", "grade": 1}]},
+    {"id": "q05", "query": "landslide risk reduction in Kerala hills", "relevant": [
+      {"doc": "kerala_sample", "contains": "landslide hazard zonation", "grade": 2},
+      {"doc": "kerala_sample", "contains": "worst floods in a century", "grade": 1}]},
+    {"id": "q06", "query": "mangrove plantation to stop coastal erosion", "relevant": [
+      {"doc": "odisha_sample", "contains": "restore mangroves", "grade": 2},
+      {"doc": "kerala_sample", "contains": "mangrove regeneration", "grade": 2}]},
+    {"id": "q07", "query": "early warning systems for floods", "relevant": [
+      {"doc": "gujarat_sample", "contains": "urban flood early warning system", "grade": 2},
+      {"doc": "kerala_sample", "contains": "dam-reservoir flood early warning", "grade": 2},
+      {"doc": "maharashtra_sample", "contains": "real-time flood forecasting", "grade": 1}]},
+    {"id": "q08", "query": "hospitals preparing for extreme summer temperatures", "relevant": [
+      {"doc": "rajasthan_sample", "contains": "heatstroke wards", "grade": 2},
+      {"doc": "odisha_sample", "contains": "heatstroke treatment rooms", "grade": 2},
+      {"doc": "gujarat_sample", "contains": "heat-health early warning alerts", "grade": 2}]},
+    {"id": "q09", "query": "solar power expansion", "relevant": [
+      {"doc": "gujarat_sample", "contains": "30 GW of solar", "grade": 2},
+      {"doc": "rajasthan_sample", "contains": "solar parks", "grade": 2}]},
+    {"id": "q10", "query": "groundwater recharge", "relevant": [
+      {"doc": "gujarat_sample", "contains": "check dams and farm ponds", "grade": 2},
+      {"doc": "rajasthan_sample", "contains": "rooftop rainwater harvesting", "grade": 2}]},
+    {"id": "q11", "query": "disease outbreaks after floods", "relevant": [
+      {"doc": "maharashtra_sample", "contains": "vector-borne diseases", "grade": 2},
+      {"doc": "kerala_sample", "contains": "disease surveillance", "grade": 2}]},
+    {"id": "q12", "query": "climate education and awareness programmes", "relevant": [
+      {"doc": "gujarat_sample", "contains": "climate awareness campaigns", "grade": 2},
+      {"doc": "kerala_sample", "contains": "climate literacy programmes", "grade": 2}]},
+    {"id": "q13", "query": "salinity damaging paddy fields in Odisha", "relevant": [
+      {"doc": "odisha_sample", "contains": "damaging paddy fields", "grade": 2}]},
+    {"id": "q14", "query": "protecting the electricity grid from storms", "relevant": [
+      {"doc": "gujarat_sample", "contains": "upgrade transmission towers", "grade": 2},
+      {"doc": "odisha_sample", "contains": "underground power cables", "grade": 2}]},
+    {"id": "q15", "query": "crop insurance for drought-hit farmers in Maharashtra", "relevant": [
+      {"doc": "maharashtra_sample", "contains": "crop insurance coverage", "grade": 2}]},
+    {"id": "q16", "query": "heat risk for outdoor workers", "relevant": [
+      {"doc": "maharashtra_sample", "contains": "farm labourers, construction workers", "grade": 2},
+      {"doc": "odisha_sample", "contains": "outdoor labourers", "grade": 2}]},
+    {"id": "q17", "query": "reservoir operations during extreme monsoon rainfall in Kerala", "relevant": [
+      {"doc": "kerala_sample", "contains": "dam-reservoir flood early warning", "grade": 2},
+      {"doc": "kerala_sample", "contains": "filled reservoirs to capacity", "grade": 2}]},
+    {"id": "q18", "query": "how is monsoon rainfall changing in India", "relevant": [
+      {"doc": "india_overview_sample", "contains": "fewer, more intense spells", "grade": 2}]},
+    {"id": "q19", "query": "cyclone shelters for coastal villages", "relevant": [
+      {"doc": "gujarat_sample", "contains": "multipurpose cyclone shelters", "grade": 2},
+      {"doc": "odisha_sample", "contains": "multipurpose cyclone shelters", "grade": 2}]},
+    {"id": "q20", "query": "river embankments and flood-tolerant crops", "relevant": [
+      {"doc": "odisha_sample", "contains": "river embankments", "grade": 2}]},
+    {"id": "q21", "query": "fishermen safety and sea level rise in Kerala", "relevant": [
+      {"doc": "kerala_sample", "contains": "offshore breakwaters", "grade": 2},
+      {"doc": "kerala_sample", "contains": "taken the lives of many fishermen", "grade": 2},
+      {"doc": "kerala_sample", "contains": "climate literacy programmes", "grade": 1}]},
+    {"id": "q22", "query": "climate change institutions and budgeting in Maharashtra", "relevant": [
+      {"doc": "maharashtra_sample", "contains": "state climate change cell", "grade": 2}]},
+    {"id": "q23", "query": "cool roofs for low-income housing", "relevant": [
+      {"doc": "gujarat_sample", "contains": "cool roofs", "grade": 2}]},
+    {"id": "q24", "query": "why are landslides increasing", "relevant": [
+      {"doc": "india_overview_sample", "contains": "deforested slopes", "grade": 2},
+      {"doc": "kerala_sample", "contains": "landslide hazard zonation", "grade": 1}]}
+  ]
+}

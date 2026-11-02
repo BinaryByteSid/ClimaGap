@@ -1,0 +1,15 @@
+# SAMPLE TEXT: illustrative paragraphs written for the ClimaGap demo.
+# Not quoted from Kerala's official State Action Plan on Climate Change.
+# Replace with the real SAPCC PDF (data/raw/Kerala__SAPCC.pdf) for actual findings.
+
+1. Climate profile. Kerala experienced its worst floods in a century in 2018, when extreme monsoon rainfall filled reservoirs to capacity and inundated large parts of the state. The Western Ghats districts of Idukki and Wayanad are increasingly affected by landslides, and rising sea levels and coastal erosion are eating into the 590 km coastline. Cyclones in the Arabian Sea have taken the lives of many fishermen at sea in recent years.
+
+2. Flood resilience. The State will implement river-space restoration in the Pamba and Periyar basins so that floodplains can absorb peak flows. The Kerala State Disaster Management Authority will establish a dam-reservoir flood early warning system covering all major reservoirs.
+
+3. Flood-safe settlements and health. Local self-government bodies will prepare flood-resilient building guidelines for urban and rural housing. The Health Department will strengthen disease surveillance after floods to prevent leptospirosis outbreaks in relief camps.
+
+4. Landslides. The State will prepare landslide hazard zonation maps for Idukki and Wayanad and restrict construction on steep slopes. The Forest Department will promote native tree cover on degraded hill slopes to stabilise soil after heavy rain.
+
+5. Coastal protection. The Fisheries Department will construct offshore breakwaters and promote mangrove regeneration to reduce coastal erosion along the most affected stretches of the shoreline. A shoreline change atlas will be updated every five years.
+
+6. Climate literacy. The Kerala State Council for Science will launch climate literacy programmes for students and fishermen, building on the people's planning tradition of the state. Gram panchayats will be encouraged to discuss local climate risks in their annual development seminars.

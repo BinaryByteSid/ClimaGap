@@ -1,0 +1,19 @@
+# SAMPLE TEXT: illustrative paragraphs written for the ClimaGap demo.
+# Not quoted from Gujarat's official State Action Plan on Climate Change.
+# Replace with the real SAPCC PDF (data/raw/Gujarat__SAPCC.pdf) for actual findings.
+
+1. Climate profile. Gujarat has the longest coastline of any Indian state and a largely semi-arid interior. Temperatures in Ahmedabad and the northern districts regularly cross 45 degrees Celsius in May, and heatwaves have become longer and more frequent over the last two decades. Kutch and Saurashtra face recurring drought, while the southern districts receive intense monsoon rainfall that causes flooding of towns and farmland.
+
+2. Coastal vulnerability. Rising sea levels and coastal erosion threaten fishing villages along the Gulf of Khambhat, and salinity ingress has already reduced groundwater quality in several coastal talukas. Cyclones originating in the Arabian Sea have repeatedly damaged ports, power lines and housing along the Saurashtra coast, and their intensity is projected to increase.
+
+3. Heat and public health. The State will scale up the Heat Action Plan across all municipal corporations to protect public health during heatwaves. Urban local bodies will promote cool roofs on low-income housing in cities such as Ahmedabad and Surat to reduce indoor heat stress. The Health Department will establish heat-health early warning alerts in district hospitals before each summer.
+
+4. Drought and water security. To cope with drought in Kutch and Saurashtra, the State will expand micro irrigation for smallholder farmers through drip and sprinkler subsidies. The Water Resources Department will construct check dams and farm ponds to recharge groundwater in drought-prone talukas, and will monitor aquifer levels every season.
+
+5. Cyclone preparedness. The Gujarat State Disaster Management Authority will strengthen the early warning system for cyclones in coastal districts and fishing communities. The State will construct multipurpose cyclone shelters in villages within ten kilometres of the coast. The state transmission utility will upgrade transmission towers to withstand cyclonic wind speeds and protect the power grid.
+
+6. Urban flooding. Surat Municipal Corporation will develop an urban flood early warning system for the Tapi river to reduce flooding in low-lying neighbourhoods. Storm water drains in older city areas will be desilted before every monsoon under a ward-level maintenance schedule.
+
+7. Clean energy. The State will install 30 GW of solar and wind capacity by 2030 to cut emissions from the power sector, and will encourage rooftop solar on government buildings and industrial estates to reduce the carbon intensity of growth.
+
+8. Awareness and capacity. The Forest and Environment Department will launch climate awareness campaigns in schools and train community volunteers in heatwave and cyclone first aid. District officials will receive annual training on integrating climate risk into district development plans.

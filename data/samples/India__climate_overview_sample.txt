@@ -1,0 +1,10 @@
+# SAMPLE TEXT: illustrative background paragraphs written for the ClimaGap demo.
+# Not quoted from IPCC AR6 or any official report.
+
+1. Observed warming. Average temperatures over India have risen by roughly 0.7 degrees Celsius since the beginning of the twentieth century, and the frequency of very hot days has increased across most of the country. Heatwaves that were once rare in coastal states are now reported from Odisha, Andhra Pradesh and Kerala.
+
+2. Changing rainfall. Total monsoon rainfall has not changed much, but it now arrives in fewer, more intense spells. This raises the risk of both flash floods and long dry spells within the same season, which is especially harmful for rain-fed agriculture and for reservoir operations.
+
+3. Coasts and cyclones. The north Indian Ocean is warming faster than the global average. Cyclones in the Arabian Sea have become more frequent and intense, and sea-level rise along the Indian coast increases the reach of storm surges into low-lying farmland and settlements.
+
+4. Mountains and slopes. Intense rainfall on steep, deforested slopes in the Western Ghats and the Himalaya is linked to a growing number of landslides, which damage roads, houses and plantations and are difficult to forecast at the local scale.

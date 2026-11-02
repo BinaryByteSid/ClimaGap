@@ -1,0 +1,15 @@
+# SAMPLE TEXT: illustrative paragraphs written for the ClimaGap demo.
+# Not quoted from Odisha's official State Action Plan on Climate Change.
+# Replace with the real SAPCC PDF (data/raw/Odisha__SAPCC.pdf) for actual findings.
+
+1. Climate profile. Odisha's 480 km coastline is among the most cyclone-prone in the world, and severe cyclones in 1999, 2013 and 2019 caused widespread destruction. The Mahanadi delta floods almost every monsoon, while the western districts suffer heatwaves with temperatures above 45 degrees Celsius. Rising sea levels and coastal erosion threaten villages in Puri and Kendrapara, and salinity ingress is damaging paddy fields close to the shore.
+
+2. Cyclone preparedness. The Odisha State Disaster Management Authority will expand the network of multipurpose cyclone shelters so that every coastal village is within 2.5 km of a shelter. OSDMA will strengthen last-mile early warning dissemination through sirens along the coast and trained community volunteers.
+
+3. Cyclone-resilient services. The Health and Family Welfare Department will prepare cyclone contingency plans for hospitals and primary health centres. The Energy Department will lay underground power cables in Bhubaneswar and Puri to protect the electricity network from cyclones.
+
+4. Flood management. The Water Resources Department will strengthen river embankments in the Mahanadi delta and promote flood-tolerant paddy varieties for farmers in low-lying blocks. Flood plain zoning will be considered in future revisions of this plan.
+
+5. Heatwaves. The State will implement the Odisha Heat Action Plan with revised working hours for outdoor labourers and drinking water kiosks in towns. The Health Department will establish heatstroke treatment rooms in all district hospitals during the summer months.
+
+6. Coastal protection. The Forest Department will restore mangroves along the Kendrapara and Jagatsinghpur coast to buffer storm surges and coastal erosion. Turtle nesting beaches at Gahirmatha and Rushikulya will be protected from coastal construction.

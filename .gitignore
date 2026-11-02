@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+data/processed/
+eval/results_per_query.csv
+data/raw/*.pdf

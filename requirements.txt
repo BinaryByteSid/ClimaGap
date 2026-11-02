@@ -1,0 +1,11 @@
+pypdf>=4.0
+spacy>=3.7
+networkx>=3.2
+rdflib>=7.0
+rank-bm25>=0.2.2
+sentence-transformers>=2.6
+numpy
+pandas
+plotly
+pyvis>=0.3.2
+streamlit>=1.32
