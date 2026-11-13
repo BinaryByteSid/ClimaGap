@@ -133,6 +133,8 @@ def to_rdf(G):
             g.add((uri(n), KG.page, Literal(a["page"])))
     for s, t, a in G.edges(data=True):
         g.add((uri(s), KG[RDF_PROP[a["rel"]]], uri(t)))
+        if a["rel"] == "ADDRESSES" and a.get("level") != "passage":   # named in the measure's own clause
+            g.add((uri(s), KG.directlyAddresses, uri(t)))
         if a["rel"] == "EXPOSED_TO":   # reify exposure so severity is queryable
             exp = uri(f"Exposure:{s}:{t}")
             g.add((exp, RDF.type, KG.Exposure))
@@ -149,11 +151,11 @@ SELECT ?measure WHERE {
   ?m a kg:PolicyMeasure ; kg:inRegion kg:Region_Gujarat ; kg:addresses kg:Hazard_Heatwave ;
      rdfs:label ?measure .
 } ORDER BY ?measure""",
-    "Hazards each state faces with NO measure in its plan (gaps)": PREFIX + """
+    "Hazards each state faces with NO direct measure in its plan (gaps)": PREFIX + """
 SELECT ?region ?hazard ?severity WHERE {
   ?e a kg:Exposure ; kg:region ?r ; kg:hazard ?h ; kg:severity ?severity .
   ?r rdfs:label ?region . ?h rdfs:label ?hazard .
-  FILTER NOT EXISTS { ?m a kg:PolicyMeasure ; kg:inRegion ?r ; kg:addresses ?h . }
+  FILTER NOT EXISTS { ?m a kg:PolicyMeasure ; kg:inRegion ?r ; kg:directlyAddresses ?h . }
 } ORDER BY ?region ?hazard""",
     "Sectors at risk in Odisha (region -> hazard -> sector)": PREFIX + """
 SELECT DISTINCT ?hazard ?sector WHERE {
